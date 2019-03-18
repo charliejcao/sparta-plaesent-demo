@@ -1,4 +1,4 @@
-Sparta Plaesent Demo
+## Sparta Plaesent Demo
 
 - This demo project was built using create-react-app.
 
