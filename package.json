@@ -2,6 +2,7 @@
   "name": "sparta-plaesent-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://charliejcao.github.io/sparta-plaesent-demo",
   "dependencies": {
     "react": "^16.8.4",
     "react-burger-menu": "^2.6.5",
